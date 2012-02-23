@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Disallow: ban.php
+Disallow: /dev/version.php

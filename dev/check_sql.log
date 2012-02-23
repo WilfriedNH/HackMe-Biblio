@@ -1,0 +1,7 @@
+-- Checking MySQL tables
+>>
+>> bn_accounts OK
+>> bn_books OK
+>>
+-- END
+-- time : 0.001s
