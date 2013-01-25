@@ -52,13 +52,13 @@ CREATE TABLE IF NOT EXISTS `bn_books` (
 INSERT INTO `bn_books` (`id`, `isbn`, `author`, `title`, `publisher`) VALUES
 (1, '978-1-118-02647-2', 'Dafydd Studdart - Marcus Pinto', 'The Web Application Hacker''s Handbook', 'Wiley'),
 (2, '978-2-02-033625-3', 'Pierre Desproges', 'Des femmes qui tombent', 'Points'),
-(3, '978-2-212-12369-2', 'Eric Daspet - Cyril Pierre de Geyer', 'PHP5 Avanc� - 5�me �dition', 'Eyrolles'),
+(3, '978-2-212-12369-2', 'Eric Daspet - Cyril Pierre de Geyer', 'PHP5 Avancé - 5ème édition', 'Eyrolles'),
 (4, '978-2-212-12866-6', 'Claude Delanoy', 'Programmer en Java', 'Eyrolles'),
-(5, '978-2-869-59227-8', 'S�n�que', 'La Vie Heureuse', 'Arl�a'),
-(6, '978-2-259-21248-9', 'Fr�d�ric Lenoir', 'Petit trait� de vie int�rieure', 'Plon'),
+(5, '978-2-869-59227-8', 'Sénèque', 'La Vie Heureuse', 'Arléa'),
+(6, '978-2-259-21248-9', 'Frédéric Lenoir', 'Petit traité de vie intérieure', 'Plon'),
 (7, '978-2-501-07320-2', 'Sandra Mahut', 'Nutella, les 30 recettes cultes', 'Marabout'),
 (8, '978-2-500-7323-3', 'Garlone Bardel', 'Carambar, les 30 recettes cultes', 'Marabout'),
-(9, '978-2-747-01694-0', 'Dani�le Bour', 'Petit Ours Brun joue dans la neige', 'Bayard Jeunesse'),
-(10, '978-2-747-02288-0', 'Dani�le Bour', 'Petit Ours Brun au man�ge', 'Bayard Jeunesse'),
-(11, '978-2-020-42785-2', 'Denis Guedj', 'Le th�or�me du perroquet', 'Seuil'),
-(12, '978-2-212-12821-5', 'C�dric Llorens', 'Tableaux de bord de la s�curit� r�seau', 'Eyrolles');
+(9, '978-2-747-01694-0', 'Danièle Bour', 'Petit Ours Brun joue dans la neige', 'Bayard Jeunesse'),
+(10, '978-2-747-02288-0', 'Danièle Bour', 'Petit Ours Brun au manège', 'Bayard Jeunesse'),
+(11, '978-2-020-42785-2', 'Denis Guedj', 'Le théorème du perroquet', 'Seuil'),
+(12, '978-2-212-12821-5', 'Cédric Llorens', 'Tableaux de bord de la sécurité réseau', 'Eyrolles');
