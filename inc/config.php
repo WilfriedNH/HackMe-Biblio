@@ -1,6 +1,6 @@
 <?php
 
-define('SITE_TITLE', 'Bibliothèque de Nîmes');
+define('SITE_TITLE', 'Bibliothèque en ligne');
 define('SITE_SLOGAN', '');
 
 define('DEBUG', false);
