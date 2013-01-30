@@ -67,6 +67,7 @@
             <footer>
                 <?php if(false){?><a style="float: right;" class="label" href="admin.php">Admin</a><?php }?>
                 <span style="float: right;" class="label label-success"><i class="icon-white icon-book"></i> <?php _c('SITE_TITLE') ?></span>
+                <a href="https://github.com/WilfriedNH/HackMe-Biblio"><span style="float: left;" class="label label-info"><i class="icon-white icon-folder-open"></i> Script sur GitHub</span></a>
             </footer>
 
         </div> <!-- /container -->
