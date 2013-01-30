@@ -14,7 +14,7 @@ Objectifs :
 - Trouver une injection SQL
 - Trouver une faille XSS et l'exploiter en envoyant un mail à l'admin
 - Trouver une faille directory listing
-- Trouver une faille directory transversal
+- Trouver une faille directory traversal
 - Réussir à se connecter en tant qu'admin
 
 Objectif ultime : exécuter du code PHP
