@@ -14,9 +14,11 @@
         <!-- Le styles -->
         <!-- <link href="style/bootstrap/bootstrap.css" rel="stylesheet">
         <link href="style/bootstrap/bootstrap-responsive.css" rel="stylesheet"> -->
-        <link rel="stylesheet/less" href="style/bootstrap/bootstrap.less" />
-        
-        <script type="text/javascript" src="js/less/less-1.2.1.min.js"></script>
+
+        <link href="style/bootstrap/default_style.css" rel="stylesheet">
+
+        <!-- <link rel="stylesheet/less" href="style/bootstrap/bootstrap.less" /> -->
+        <!-- <script type="text/javascript" src="js/less/less-1.2.1.min.js"></script> -->
         <script type="text/javascript" src="js/jQuery/jquery-1.7.1.min.js"></script>
 
         <!-- Le fav and touch icons -->
