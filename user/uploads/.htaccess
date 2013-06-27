@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !(\.pdf|\.php)$
+RewriteRule .* ./404.php [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule \d+/.*\.php$ ./win.php [L,QSA]
