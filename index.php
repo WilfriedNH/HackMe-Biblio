@@ -46,7 +46,7 @@ require_once 'inc/loader.php';
                             <span class="add-on"><i class="icon-lock"></i></span>
                             <input class="span2" id="email" type="password" name="pass" placeholder="Mot de passe" style="width: 80%;" required="required" />
                         </div>
-                        <button type="submit" class="btn btn-primary" />Connexion</button> <a class="btn" href="subscribe.php">Inscription</a>
+                        <button type="submit" class="btn btn-primary" />Connexion</button>
                     </div>
                 </form>
             <?php else: ?>

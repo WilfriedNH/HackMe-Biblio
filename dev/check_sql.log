@@ -1,7 +1,25 @@
 -- Checking MySQL tables
->>
->> bn_accounts OK
->> bn_books OK
->>
+
+>> Checking 'bn_accounts'
+
++----+-------+------+------+------+
+| id | email | pass | name | rank |
++----+-------+------+------+------+
+| OK | OK    | OK   | OK   | OK   |
++----+-------+------+------+------+
+
+>> bn_accounts OK (Checked 2 rows)
+
+
+>> Checking 'bn_books'
+
++----+------+--------+-------+-----------+
+| id | isbn | author | title | publisher |
++----+------+--------+-------+-----------+
+| OK | OK   | OK     | OK    | OK        |
++----+------+--------+-------+-----------+
+
+>> bn_books OK (Checked 12 rows)
+
 -- END
 -- time : 0.001s

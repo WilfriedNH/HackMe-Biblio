@@ -9,9 +9,10 @@ Le but est de découvrir certaines failles web dans une situation réaliste.
 1. Copier tous les fichiers à la racine du serveur Apache
 2. Donner un droit d'écriture dans le répertoire ``user/uploads/`` à l'utilisateur d'Apache
 3. Activer le rewriting sur le serveur apache avec la commande ``a2enmod rewrite``
-4. Créer la base de données à partir de ``database_install.sql`` (via PhpMyAdmin par exemple)
-5. Créer un utilisateur MySQL et lui donner un accès à la base de données en __lecture uniquement__
+4. Créer la base de données 'biblio' à partir de ``database_install.sql`` (via PhpMyAdmin par exemple)
+5. Créer un utilisateur MySQL et lui donner un accès à la base de données 'biblio' en __lecture uniquement__
 6. Renseigner les identifiants SQL de cet utilisateur dans le fichier inc/config.php
+7. ___En option___ : Donner à cet utilisateur un accès en lecture à la base 'information_schema' pour éviter le guessing
 
 
 ## Objectifs :
